@@ -1,0 +1,9 @@
+python-telegram-bot>=20.7
+python-dotenv>=1.0.0
+requests>=2.31.0
+numpy>=1.24.3
+torch>=2.1.0
+transformers>=4.35.0
+accelerate>=0.24.1
+tokenizers>=0.14.1
+sentencepiece>=0.1.99
